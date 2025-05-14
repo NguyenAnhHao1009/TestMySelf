@@ -9,4 +9,9 @@ class Test{
     public void printDate(){
         System.out.println(Instant.now().toString());
     }
+
+    public void  loggin() {
+        System.out.println("Log in . . . .");
+    }
+
 }
